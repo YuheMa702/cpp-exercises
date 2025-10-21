@@ -11,5 +11,12 @@ int main() {
     Lumonity as usual when I get up.
     Oh and hot dog as breakfast
     */
+
+/*
+Okay I learned several techniques to make people disclose more info about themselves
+1. Make wrong statements
+2. Recap statement: so, I bet
+3. Disbelief: that cannot be possible
+*/
    return EXIT_SUCCESS;
 }
