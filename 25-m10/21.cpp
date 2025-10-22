@@ -15,5 +15,14 @@ int main() {
     If time allows: read 15213 textbook for fun/watch psychology videos, study tips
     11:25 say good night to her
     */
+   /*
+   How to read fast?
+   1. Get rid of internal monologue
+   2. 80/20 rule 
+   3. Summarize so that you retain the information
+   */
+/*
+It turned out that today is a total waste of time for me... as I kept getting distracted by my base desires.
+*/
    return EXIT_SUCCESS;
 }
