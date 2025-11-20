@@ -7,6 +7,7 @@ int main() {
     2. Finish DB required readings
     3. Finish DB class notes and open a pull request (TOP PRIORITY)
     DONE!!!! Now I can have some fun (can't believe I actually finished my tasks for today)
+    I also selected courses for my next semester
     */
 
    return EXIT_SUCCESS;
